@@ -1,13 +1,5 @@
-/*
 # C-Programming
 C Programming: Basic to Advanced  This repository contains a comprehensive collection of C programming examples, covering concepts from beginner to advanced levels. It includes code samples, problem-solving exercises, and common programming patterns to help learners understand the core principles of C.
-*/
-/*
-# 💻 C Programming: From Basics to Advanced
-
-This repository contains a curated collection of C programs, ranging from beginner-friendly examples to advanced programming concepts. It is designed to help students, learners, and developers understand and master the C programming language through hands-on practice.
-
----
 
 ## 📘 What You'll Learn
 
@@ -97,5 +89,5 @@ Feel free to reach out if you have questions, suggestions, or feedback:
 
 * 📧 Email: [shaurya.shekhar.cs28@iilm.edu](mailto:shaurya.shekhar.cs28@iilm.edu)
 * ☎️ Contact: +91 9931684385
-* 🔗 GitHub: [shaurya3090shekhar](https://github.com/shaurya3090shekhar
-*/
+* 🔗 GitHub: [shaurya3090shekhar](https://github.com/shaurya3090shekhar)
+
