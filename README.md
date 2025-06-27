@@ -89,5 +89,5 @@ Feel free to reach out if you have questions, suggestions, or feedback:
 
 * 📧 Email: [shaurya.shekhar.cs28@iilm.edu](mailto:shaurya.shekhar.cs28@iilm.edu)
 * ☎️ Contact: +91 9931684385
-* 🔗 GitHub: [shaurya3090shekhar](https://github.com/shaurya3090shekhar)
+* 🔗 GitHub: [shaurya3090shekhar]https://github.com/shaurya3090shekhar
 
